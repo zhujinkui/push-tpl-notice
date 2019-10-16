@@ -1,2 +1,2 @@
-# push-tpl-notice
-这是一个基于Beanstalk插件发送微信模板消息的类库。
+# PushTplNotice
+This is a class library based on Beanstalk plug-in to send message of Wechat template
