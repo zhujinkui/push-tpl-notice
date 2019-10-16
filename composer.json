@@ -1,5 +1,5 @@
 {
-    "name": "zhujinkui/PushTplNotice",
+    "name": "zhujinkui/push-tpl-notice",
     "description": "This is a class library based on Beanstalk plug-in to send message of Wechat template.",
     "type": "library",
     "license": "Apache-2.0",
